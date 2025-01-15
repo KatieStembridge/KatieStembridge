@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--## Hey 👋, This is Katie Stembridge
+## Hey 👋, This is Katie Stembridge
 [![katie.stembridge@yahoo.com](https://img.shields.io/badge/-katie.stembridge@yahoo.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:katie.stembridge@yahoo.com)](mailto:katie.stembridge@yahoo.com) 
 [![www.linkedin.com/in/katie-stembridge](https://img.shields.io/badge/-Katie Stembridge-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Katie Stembridge/)](https://www.linkedin.com/in/Katie Stembridge/) [![Github Badge](https://img.shields.io/badge/-KatieStembridge-grey?style=flat&logo=github&logoColor=white&link=https://github.com/KatieStembridge/)](https://www.github.com/KatieStembridge/) <p align='left'>With over 10 years of experience in the medical field, I have developed strong leadership skills and a deep passion for continuous learning. Now transitioning into the tech world, I  bring a wealth of experience in problem-solving, team management, and adaptability. Eager to expand knowledge and thrive in new challenges, I am committed to success and growth in this exciting new chapter.</p>
 ## Some of my Github Stats
@@ -20,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
